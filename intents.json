@@ -14,11 +14,6 @@
          "responses": ["My pleasure", "You're Welcome"],
          "context": [""]
         },
-        {"tag": "query",
-         "patterns": ["What is Simplilearn?"],
-         "responses": ["Simplilearn is the popular online Bootcamp & online courses learning platform "],
-         "context": [""]
-        },
         {
         "tag": "wikipedia_search",
         "patterns": ["Tell me about", "I want to know about", "Who is", "What is", "Give me information about", "Search for", "Look up"],
